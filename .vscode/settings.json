@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "discord.removeDetails": false,
+    "discord.removeLowerDetails": true,
+    "discord.removeRemoteRepository": true
+}
